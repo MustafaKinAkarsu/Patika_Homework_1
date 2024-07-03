@@ -1,0 +1,6 @@
+@Patika_HW_1_HostAddress = http://localhost:5009
+
+GET {{Patika_HW_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
